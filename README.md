@@ -4,5 +4,5 @@
 🐹 Currently learning Go and SQL  
 🏗️ Built a static site generator with Markdown to HTML conversion, regex text parsing, and node-based architecture  
 📚 Developed a book API with Flask and PostgreSQL
-🚀 Can spend many joyful hours on [LeetCode](https://leetcode.com/u/arrelecq/) daily
-<span style="font-size: 48px;">♘</span> Play me in chess on [Chess.com](https://www.chess.com/member/daristane).  I'm not that good, but I try.
+🚀 Can easily spend many joyful hours on [LeetCode](https://leetcode.com/u/arrelecq/) <br>
+🏁 Play me in chess on [Chess.com](https://www.chess.com/member/daristane).  I'm not that good, but I try.
