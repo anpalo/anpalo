@@ -8,5 +8,5 @@ I enjoy solving problems—whether it's debugging and optimizing some gnarly nes
 * Developing a book API with Flask and PostgreSQL <br>
 
 🚀 Can easily spend many joyful hours on [LeetCode](https://leetcode.com/u/arrelecq/) <br>
-🏁 Play me in chess on [Chess.com](https://www.chess.com/member/daristane) - I'm not that good, but I try.
+🏁 Play me in chess on [Chess.com](https://www.chess.com/member/daristane) - I'm not that good, but I try. <br>
 Go Pacers.
