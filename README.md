@@ -7,6 +7,5 @@ I enjoy solving problems—whether it's debugging and optimizing some of my own 
 * Building a static site generator with Markdown to HTML conversion, regex text parsing, and node-based architecture  
 * Developing a book API with Flask and PostgreSQL <br>
 
-🚀 Can joyfully spend countless hours on [LeetCode](https://leetcode.com/u/arrelecq/) <br>
+🚀 Can spend countless happy hours on [LeetCode](https://leetcode.com/u/arrelecq/) <br>
 🏁 Play me in chess on [Chess.com](https://www.chess.com/member/daristane) - I'm not that good, but I try. <br>
-Go Pacers.
