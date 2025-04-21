@@ -1,5 +1,5 @@
 **Hi, I'm Andrew Lockdall** <br>
-I like solving problems, whether it's debugging and optimizing some of my own gnarly nested for-loops, cracking a LeetCode puzzle, or negotiating peace talks between two first-grade students arguing about erasers. I still have a lot to learn!
+I like solving problems, whether it's debugging my own gnarly nested for-loops, cracking a LeetCode puzzle, or negotiating peace talks between two first-grade students arguing about erasers. I still have a lot to learn!
 
 🖥️ Working primarily with Python since 2021  
 🐹 Currently learning Go and SQL  
